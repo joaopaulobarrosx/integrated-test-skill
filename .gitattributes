@@ -1,0 +1,3 @@
+# O repositório é documentação (markdown): não deixa o install.sh e os exemplos virarem a "linguagem" do GitHub.
+*.sh linguist-vendored
+examples/** linguist-documentation
